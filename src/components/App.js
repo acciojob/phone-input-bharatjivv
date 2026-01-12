@@ -1,6 +1,5 @@
 
 import React, { useState } from "react";
-import React from "react";
 
 const App = () => {
   const [digits, setDigits] = useState("");
